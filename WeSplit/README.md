@@ -7,7 +7,7 @@ The app outputs how much each person will have to pay.
 This project was built as part of my journey to become an iOS developer.
 
 #Features
-*  Dynamic Calculations: Automatically updates the final totals as you adjust parameters.. 
+*  Dynamic Calculations: Automatically updates the final totals as you adjust parameters.
 *  Localized Currency Formats: Integrates native Swift formatters to match the user's regional currency settings.
 *  Intuitive UI Control: Utilizes picker elements for seamless tip and party-size selection. 
 *  Clean Data Flow: Features state-driven components to ensure the UI stays perfectly synced with the underlying business logic. 
